@@ -24,13 +24,13 @@ pluralizelisttitles = false
     weight     = 1
 
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "O que é?"
     url        = "/"
     weight     = 1
     parent     = "menu.inicial"
 
 [[menu.main]]
-    name       = "Option 2: Application"
+    name       = "Quem faz?"
     url        = "/"
     weight     = 2
     parent     = "menu.inicial"
@@ -39,4 +39,4 @@ pluralizelisttitles = false
     name       = "Contato"
     identifier = "menu.contato"
     url        = "/contato"
-    weight     = 1
+    weight     = 2
