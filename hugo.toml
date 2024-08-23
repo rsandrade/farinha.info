@@ -1,4 +1,16 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://farinha.info/'
+languageCode = 'pt-br'
+title = 'Farinha'
 theme = 'hugo-universal-theme'
+
+style = "default"
+
+[menu]
+
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
