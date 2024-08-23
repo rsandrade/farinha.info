@@ -18,8 +18,8 @@ pluralizelisttitles = false
 
 # Main menu
 [[menu.main]]
-    name       = "Home"
-    identifier = "menu.home"
+    name       = "Inicial"
+    identifier = "menu.inicial"
     url        = "/"
     weight     = 1
 
@@ -27,11 +27,16 @@ pluralizelisttitles = false
     name       = "Option 1: Default Page"
     url        = "/"
     weight     = 1
-    parent     = "menu.home"
+    parent     = "menu.inicial"
 
 [[menu.main]]
     name       = "Option 2: Application"
     url        = "/"
     weight     = 2
-    parent     = "menu.home"
+    parent     = "menu.inicial"
 
+[[menu.main]]
+    name       = "Contato"
+    identifier = "menu.contato"
+    url        = "/contato"
+    weight     = 1
