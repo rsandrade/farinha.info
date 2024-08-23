@@ -5,8 +5,16 @@ theme = 'hugo-universal-theme'
 
 style = "default"
 
-[menu]
+# number of words of summarized post content (default 70)
+summaryLength = 70
 
+# Define the number of posts per page
+paginate = 10
+
+# not pluralize title pages by default
+pluralizelisttitles = false
+
+[menu]
 
 # Main menu
 [[menu.main]]
@@ -14,3 +22,16 @@ style = "default"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
+
+[[menu.main]]
+    name       = "Option 1: Default Page"
+    url        = "/"
+    weight     = 1
+    parent     = "menu.home"
+
+[[menu.main]]
+    name       = "Option 2: Application"
+    url        = "/"
+    weight     = 2
+    parent     = "menu.home"
+
