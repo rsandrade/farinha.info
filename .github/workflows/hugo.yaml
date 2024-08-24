@@ -63,7 +63,11 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
+<<<<<<< HEAD
           path: ./public
+=======
+          path: ./themes/hugo-universal-theme/exampleSite/
+>>>>>>> a571262b67f04a8b9665fa565348e51d5b25c844
 
   # Deployment job
   deploy:
@@ -77,3 +81,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a571262b67f04a8b9665fa565348e51d5b25c844
