@@ -66,3 +66,8 @@ style = "default"
 [params.features]
     enable = true
     cols = 4
+
+[params.testimonials]
+    enable = true
+    title = "Depoimentos"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
