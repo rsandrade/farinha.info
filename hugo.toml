@@ -1,5 +1,6 @@
 baseURL = 'https://farinha.info/'
 languageCode = 'pt-br'
+defaultContentLanguage = "pt-br"
 title = 'Farinha'
 
 theme = 'hugo-universal-theme'
