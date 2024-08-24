@@ -54,3 +54,10 @@ style = "default"
     name = "Email"
     url = "mailto:hello@universal.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
+
+
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
