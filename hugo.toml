@@ -78,3 +78,19 @@ style = "default"
     enable = true
     title = "Parceiros"
     subtitle = "Orgulhosamente colaboramos com essas instituições."
+
+
+[params]
+    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+
+[params]
+contact_url = "/contact"
+address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
+    <br>13/25 New Avenue
+    <br>Newtown upon River
+    <br>45Y 73J
+    <br>England
+    <br>
+    <strong>Great Britain</strong>
+    </p>
+    """
