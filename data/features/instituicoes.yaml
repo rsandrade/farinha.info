@@ -1,0 +1,5 @@
+weight: 1
+name: "Multi institucional"
+icon: "fas fa-lightbulb"
+url: ""
+description: "Permite cadastrar diversas instituições em uma mesma instalação."
