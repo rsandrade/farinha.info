@@ -62,12 +62,6 @@ pluralizelisttitles = false
     url = "https://instagram.com/farinha"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-    categories = true
-    tags = true
-    search = true
-
 [params.carouselCustomers]
     items = 6
     auto_play = false
