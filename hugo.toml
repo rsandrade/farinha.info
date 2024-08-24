@@ -11,3 +11,25 @@ style = "default"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
+
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "Inicial"
+    identifier = "menu.inicial"
+    url        = "/"
+    weight     = 1
+
+[[menu.main]]
+    name       = "O software"
+    url        = "/"
+    weight     = 1
+    parent     = "menu.inicial"
+
+[[menu.main]]
+    name       = "A equipe"
+    url        = "/"
+    weight     = 2
+    parent     = "menu.inicial"
