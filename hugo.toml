@@ -33,3 +33,24 @@ style = "default"
     url        = "/"
     weight     = 2
     parent     = "menu.inicial"
+
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "Gitlab"
+    url = "https://github.com/devcows/hugo-universal-theme"
+    pre = "<i class='fab fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Instagram"
+    url = "http://facebook.com"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Email"
+    url = "mailto:hello@universal.com"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
