@@ -1,9 +1,9 @@
-weight: 1
+weight: 2
 title: "Fundos e Coleções"
 description: >
   <ul class="list-style-none">
     <li>Use a Nobrade (ou não).</li>
-    <li>Adicione o trabalho legado imediatamente!</li>
+    <li>Não desperdice o trabalho legado. Avance com boas práticas.</li>
   </ul>  
 image: "img/carousel/template-easy-code.png"
-href: "https://devcows.github.io/hugo-universal-theme/"
+href: "#"

@@ -1,0 +1,9 @@
+weight: 3
+title: "Objetos digitais"
+description: >
+  <ul class="list-style-none">
+    <li>Visualize o acervo.</li>
+    <li>Adicione objetos digitais, sejam eles imagéticas, sonoras ou audiovisuais.</li>
+  </ul>  
+image: "img/carousel/template-easy-code.png"
+href: "#"
