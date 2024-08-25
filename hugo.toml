@@ -28,6 +28,10 @@ style = "default"
         """
     # end footer
 
+[params.topbar]
+    enable = true
+    text = "<p>Entre em contato por contato@farinha.info</p>"
+
 [menu]
 
 # Main menu
