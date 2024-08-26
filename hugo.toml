@@ -14,16 +14,16 @@ style = "default"
     logo_small = "img/logo-small.png"
 
     # footer
-    about_us = "<p>O <strong>Farinha</strong> é um software livre desenvolvido com o objetivo de facilitar a gestão de arquivos permanentes.</p><p>Nossa missão é proporcionar uma plataforma livre, robusta, acessível para instituições que desejam preservar e compartilhar seu patrimônio documental</p><p>O projeto é mantido e desenvolvido de forma colaborativa, com o código-fonte aberto e disponível para todas as instituições interessadas.</p>"
+    about_us = "<p>O <strong>Farinha</strong> é um software livre desenvolvido com o objetivo de facilitar a gestão de arquivos permanentes, de valor histórico.</p><p>Nossa missão é proporcionar uma <b>plataforma livre, robusta, acessível</b> para instituições que desejam preservar e compartilhar seu patrimônio documental</p><p>O projeto é mantido e desenvolvido de forma colaborativa, com o código-fonte aberto e disponível para todas as instituições interessadas.</p>"
 
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p>
+        <br>Salvador/BA
+        <br>Brasil
         <br>
-        <strong>Great Britain</strong>
+        <br>
+        <a href="mailto:contato@farinha.info">contato@farinha.info</a>
+        <br>
         </p>
         """
     # end footer
