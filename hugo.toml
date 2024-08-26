@@ -10,8 +10,8 @@ style = "default"
     disabled_logo = false
     logo_text = "Farinha"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo = "img/logo_farinha1.png"
+    logo_small = "img/logo_farinha1.png"
 
     # footer
     about_us = "<p>O <strong>Farinha</strong> é um software livre desenvolvido com o objetivo de facilitar a gestão de arquivos permanentes, de valor histórico.</p><p>Nossa missão é proporcionar uma <b>plataforma livre, robusta, acessível</b> para instituições que desejam preservar e compartilhar seu patrimônio documental</p><p>O projeto é mantido e desenvolvido de forma colaborativa, com o código-fonte aberto e disponível para todas as instituições interessadas.</p>"
