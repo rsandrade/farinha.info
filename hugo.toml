@@ -14,7 +14,7 @@ style = "default"
     logo_small = "img/logo-small.png"
 
     # footer
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>O <strong>Farinha</strong> é um software livre desenvolvido com o objetivo de facilitar a gestão de arquivos permanentes.</p><p>Nossa missão é proporcionar uma plataforma livre, robusta, acessível para instituições que desejam preservar e compartilhar seu patrimônio documental</p><p>O projeto é mantido e desenvolvido de forma colaborativa, com o código-fonte aberto e disponível para todas as instituições interessadas.</p>"
 
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
@@ -58,20 +58,20 @@ style = "default"
 
 [[menu.topbar]]
     weight = 1
-    name = "Gitlab"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    name = "Github"
+    url = "https://github.com/rsandrade/farinha.info"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Instagram"
-    url = "http://facebook.com"
+    url = "#"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:contato@farinha.info"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 
