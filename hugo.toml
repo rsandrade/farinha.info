@@ -96,4 +96,4 @@ style = "default"
 [params.clients]
     enable = true
     title = "Parceiros"
-    subtitle = "Orgulhosamente colaboramos com essas instituições."
+    subtitle = ""
