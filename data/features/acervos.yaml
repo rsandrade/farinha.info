@@ -1,5 +1,5 @@
 weight: 3
-name: "Liste os acervos"
-icon: "fas fa-lightbulb"
+name: "Multi-acervos"
+icon: "fas fa-file"
 url: ""
 description: "Cadastre os fundos e coleções, use os metadados Nobrade ou indique os metadados necessários."
