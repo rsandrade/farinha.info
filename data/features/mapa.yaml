@@ -1,5 +1,5 @@
 weight: 4
 name: "Mapa (georeferências)"
-icon: "fas fa-map"
+icon: "fas fa-map-marked-alt"
 url: ""
 description: "As instituições, setores e subsetores poderão receber georreferências para serem visualizadas em um mapa."

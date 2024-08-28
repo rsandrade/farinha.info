@@ -1,0 +1,5 @@
+weight: 6
+name: "Fácil implantação"
+icon: "fab fa-docker"
+url: ""
+description: "Instale no servidor da instituição com poucos comandos."
