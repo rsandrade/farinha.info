@@ -1,5 +1,5 @@
 weight: 1
 name: "Multi-institucional"
-icon: "fa-solid fa-building-columns"
+icon: "fas fa-university"
 url: ""
 description: "Permite cadastrar diversas instituições em uma mesma instalação."
