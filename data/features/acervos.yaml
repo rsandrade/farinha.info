@@ -2,4 +2,4 @@ weight: 3
 name: "Multiacervos"
 icon: "fas fa-archive"
 url: ""
-description: "Cadastre os fundos e coleções, use os metadados Nobrade ou indique os metadados necessários."
+description: "Cadastre ou importe fundos e coleções, use metadados Nobrade ou indique os metadados necessários."
