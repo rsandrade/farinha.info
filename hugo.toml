@@ -32,26 +32,26 @@ style = "default"
     enable = true
     text = "<p>Entre em contato por contato@farinha.info</p>"
 
-[menu]
-
-# Main menu
-[[menu.main]]
-    name       = "Inicial"
-    identifier = "menu.inicial"
-    url        = "/"
-    weight     = 1
-
-[[menu.main]]
-    name       = "O software"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.inicial"
-
-[[menu.main]]
-    name       = "A equipe"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.inicial"
+#[menu]
+#
+## Main menu
+#[[menu.main]]
+#    name       = "Inicial"
+#    identifier = "menu.inicial"
+#    url        = "/"
+#    weight     = 1
+#
+#[[menu.main]]
+#    name       = "O software"
+#    url        = "/"
+#    weight     = 1
+#    parent     = "menu.inicial"
+#
+#[[menu.main]]
+#    name       = "A equipe"
+#    url        = "/"
+#    weight     = 2
+#    parent     = "menu.inicial"
 
 
 # Top bar social links menu
@@ -89,8 +89,8 @@ style = "default"
 
 [params.testimonials]
     enable = true
-    title = "Depoimentos"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Equipe"
+    subtitle = ""
 
 
 [params.clients]
