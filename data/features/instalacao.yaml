@@ -2,4 +2,4 @@ weight: 7
 name: "Fácil implantação"
 icon: "fab fa-docker"
 url: ""
-description: "É instalado e atualizado no computador servidor com pouquíssimos comandos."
+description: "Em poucas etapas, o Farinha estará instalado/atualizado, sem a necessidade de um time técnico."

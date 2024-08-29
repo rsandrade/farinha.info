@@ -2,4 +2,4 @@ weight: 1
 name: "Multi-institucional"
 icon: "fas fa-university"
 url: ""
-description: "Permite cadastrar diversas instituições em uma mesma instalação."
+description: "Cadastre e gerencie diversas instituições de custódia, de forma centralizada, em uma mesma instalação do Farinha."

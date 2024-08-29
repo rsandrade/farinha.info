@@ -2,4 +2,4 @@ weight: 5
 name: "Mapa (georeferências)"
 icon: "fas fa-map-marked-alt"
 url: ""
-description: "As instituições, setores e subsetores poderão receber georreferências para serem visualizadas em um mapa."
+description: "Utilize recursos de georreferenciamento (latitude e longitude) para exibir instituições, setores e subsetores em um mapa."
