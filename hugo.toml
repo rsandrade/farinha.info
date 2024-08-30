@@ -14,7 +14,7 @@ style = "default"
     logo_small = "img/logo_farinha.png"
 
     # footer
-    about_us = """<p><strong>Os igrendiantes do Farinha</stron></p>
+    about_us = """<br>
     <ul>
         <li><img src="/img/badges/badge-python.svg" alt="Python"/></li>
         <p>
@@ -26,7 +26,7 @@ style = "default"
         <p>
         <li><img src="/img/badges/badge-bulma.svg" alt="BulmaCSS"/></li>
     </ul>"""
-    # contact_url = "/contact"
+    contact_url = "/contact"
     address = """
         <br>Salvador/BA
         <br>Brasil
