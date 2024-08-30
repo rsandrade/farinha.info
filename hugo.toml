@@ -20,7 +20,9 @@ style = "default"
         <p>
         <li><img src="/img/badges/badge-django.svg" alt="Django"/></li>
         <p>
-        <li><img src="/img/badges/badge-sqlite.svg" alt="HUGO"/></li>
+        <li><img src="/img/badges/badge-docker.svg" alt="Docker"/></li>
+        <p>
+        <li><img src="/img/badges/badge-sqlite.svg" alt="SQLite"/></li>
         <p>
         <li><img src="/img/badges/badge-bulma.svg" alt="BulmaCSS"/></li>
     </ul>"""
