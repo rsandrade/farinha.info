@@ -2,8 +2,8 @@ weight: 1
 title: "O Farinha"
 description: >
   <ul class="list-style-none">
-    <li>Software livre desenvolvido com o objetivo de facilitar a gestão de arquivos permanentes, de valor histórico.</li>
-    <li>Nossa missão é proporcionar uma plataforma livre, robusta, acessível para instituições que desejam preservar e compartilhar seu patrimônio documental</li>
+    <li>Software livre desenvolvido para facilitar a gestão de arquivos permanentes, de valor histórico.</li>
+    <li>Nossa missão é proporcionar uma plataforma livre, robusta e acessível para instituições que desejam preservar e compartilhar seu patrimônio documental</li>
   </ul>  
 image: "img/carousel/farinha.png"
 href: "#"
