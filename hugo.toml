@@ -14,8 +14,7 @@ style = "default"
     logo_small = "img/logo_farinha.png"
 
     # footer
-    about_us = "<p>O <strong>Farinha</strong> é um software livre desenvolvido com o objetivo de facilitar a gestão de arquivos permanentes, de valor histórico.</p><p>Nossa missão é proporcionar uma <b>plataforma livre, robusta, acessível</b> para instituições que desejam preservar e compartilhar seu patrimônio documental</p><p>O projeto é mantido e desenvolvido de forma colaborativa, com o código-fonte aberto e disponível para todas as instituições interessadas.</p>"
-
+    about_us = "<p><strong>Igredientes do Farinha</strong>: </p><ul><li>- Python</li><li>- Django</li><li>- HUGO</li><li>- Bulma CSS</li></ul>"
     contact_url = "/contact"
     address = """<p>
         <br>Salvador/BA
