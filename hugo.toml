@@ -14,7 +14,8 @@ style = "default"
     logo_small = "img/logo_farinha.png"
 
     # footer
-    about_us = """<ul>
+    about_us = """<p><strong>Os igrendiantes do Farinha</stron></p>
+    <ul>
         <li><img src="/img/badges/badge-python.svg" alt="Python"/></li>
         <p>
         <li><img src="/img/badges/badge-django.svg" alt="Django"/></li>
