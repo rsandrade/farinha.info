@@ -26,7 +26,7 @@ style = "default"
         <p>
         <li><img src="/img/badges/badge-bulma.svg" alt="BulmaCSS"/></li>
     </ul>"""
-    contact_url = "/contact"
+    contact_url = "contact"
     address = """
         <br>Salvador/BA
         <br>Brasil
