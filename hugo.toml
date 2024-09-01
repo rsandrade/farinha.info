@@ -103,7 +103,7 @@ style = "default"
     subtitle = ""
 
 
-[params.clients]
-    enable = true
-    title = "Parceiros"
-    subtitle = ""
+#[params.clients]
+#    enable = true
+#    title = "Parceiros"
+#    subtitle = ""
