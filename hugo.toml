@@ -66,11 +66,11 @@ style = "default"
 
 # Top bar social links menu
 
-[[menu.topbar]]
-    weight = 1
-    name = "Github"
-    url = "https://github.com/rsandrade/farinha.info"
-    pre = "<i class='fab fa-2x fa-github'></i>"
+#[[menu.topbar]]
+#    weight = 1
+#    name = "Github"
+#    url = "https://github.com/rsandrade/farinha.info"
+#    pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 2
