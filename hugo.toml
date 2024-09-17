@@ -75,7 +75,7 @@ style = "default"
 [[menu.topbar]]
     weight = 2
     name = "Instagram"
-    url = "#"
+    url = "https://instagram.com/farinha.info"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
