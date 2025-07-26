@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 set -e
 
+echo "🔍 Verificando Git..."
+if ! command -v git &> /dev/null; then
+  echo "❌ Git não está instalado. Instale o Git antes de continuar."
+  exit 1
+fi
+
 echo "📦 Clonando projeto..."
 if [ ! -d farinha ]; then
   git clone https://gitlab.com/yndexa/farinha/farinha.git
